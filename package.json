@@ -1,0 +1,23 @@
+{
+  "name": "hs",
+  "version": "1.0.0",
+  "description": "hs",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "mongodb": "^3.3.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noven Thou",
+  "license": "ISC"
+}
